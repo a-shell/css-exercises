@@ -1,0 +1,19 @@
+.cool {
+    background-color: rgb(255,192,203);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#idOne {
+    color: blue;
+    font-size: 36px;
+}
+
+#idTwo {
+    font-size: 24px;
+}
+
+#idThree {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700px;
+}
